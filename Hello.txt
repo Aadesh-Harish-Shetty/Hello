@@ -1,2 +1,2 @@
 Hello Everyone!
-This is my entry to git.
+This is my entry to GIT.
